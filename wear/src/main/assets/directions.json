@@ -1,0 +1,352 @@
+{
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 40.7226717,
+               "lng" : -73.9971742
+            },
+            "southwest" : {
+               "lat" : 40.7040867,
+               "lng" : -74.0100295
+            }
+         },
+         "copyrights" : "Map data ©2015 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1 ft",
+                  "value" : 0
+               },
+               "duration" : {
+                  "text" : "1 min",
+                  "value" : 0
+               },
+               "end_address" : "66 Crosby Street, New York, NY 10012, USA",
+               "end_location" : {
+                  "lat" : 40.7223687,
+                  "lng" : -73.9982292
+               },
+               "start_address" : "66 Crosby Street, New York, NY 10012, USA",
+               "start_location" : {
+                  "lat" : 40.7223687,
+                  "lng" : -73.9982292
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "1 ft",
+                        "value" : 0
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 0
+                     },
+                     "end_location" : {
+                        "lat" : 40.7223687,
+                        "lng" : -73.9982292
+                     },
+                     "html_instructions" : "Head on \u003cb\u003eCrosby St\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "yqpwF|wsbM"
+                     },
+                     "start_location" : {
+                        "lat" : 40.7223687,
+                        "lng" : -73.9982292
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "via_waypoint" : []
+            },
+            {
+               "distance" : {
+                  "text" : "2.0 mi",
+                  "value" : 3170
+               },
+               "duration" : {
+                  "text" : "15 mins",
+                  "value" : 884
+               },
+               "end_address" : "45 William Street, New York, NY 10005, USA",
+               "end_location" : {
+                  "lat" : 40.7064265,
+                  "lng" : -74.00944149999999
+               },
+               "start_address" : "66 Crosby Street, New York, NY 10012, USA",
+               "start_location" : {
+                  "lat" : 40.7223687,
+                  "lng" : -73.9982292
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "131 ft",
+                        "value" : 40
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 14
+                     },
+                     "end_location" : {
+                        "lat" : 40.7226717,
+                        "lng" : -73.9979707
+                     },
+                     "html_instructions" : "Head \u003cb\u003enortheast\u003c/b\u003e on \u003cb\u003eCrosby St\u003c/b\u003e toward \u003cb\u003eSpring St\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "yqpwF|wsbM{@s@"
+                     },
+                     "start_location" : {
+                        "lat" : 40.7223687,
+                        "lng" : -73.9982292
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "256 ft",
+                        "value" : 78
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 52
+                     },
+                     "end_location" : {
+                        "lat" : 40.7223228,
+                        "lng" : -73.9971742
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e at the 1st cross street onto \u003cb\u003eSpring St\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "uspwFhvsbMdA_D"
+                     },
+                     "start_location" : {
+                        "lat" : 40.7226717,
+                        "lng" : -73.9979707
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.6 mi",
+                        "value" : 896
+                     },
+                     "duration" : {
+                        "text" : "4 mins",
+                        "value" : 255
+                     },
+                     "end_location" : {
+                        "lat" : 40.7155932,
+                        "lng" : -74.003017
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eLafayette St\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "oqpwFhqsbMpC|BPNpAbAnElDnDzC`BzAp@j@`BvA|BpBfB|AJHn@h@`Av@~@t@p@b@"
+                     },
+                     "start_location" : {
+                        "lat" : 40.7223228,
+                        "lng" : -73.9971742
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.3 mi",
+                        "value" : 435
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 115
+                     },
+                     "end_location" : {
+                        "lat" : 40.71353999999999,
+                        "lng" : -73.99863329999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eAvenue of the Strongest/Worth St\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eContinue to follow Worth St\u003c/div\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "mgowFzutbMf@mA`@kAHYJYp@kBdAgCJUFSFO\\}@x@wB\\iAn@qB"
+                     },
+                     "start_location" : {
+                        "lat" : 40.7155932,
+                        "lng" : -74.003017
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 mi",
+                        "value" : 358
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 83
+                     },
+                     "end_location" : {
+                        "lat" : 40.7110078,
+                        "lng" : -74.0004677
+                     },
+                     "html_instructions" : "Continue onto \u003cb\u003eSt James Pl\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "sznwFlzsbMV]Zi@@A@AD?D@BBZ\\`@\\b@d@FFNN|CbDxCvC"
+                     },
+                     "start_location" : {
+                        "lat" : 40.71353999999999,
+                        "lng" : -73.99863329999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.3 mi",
+                        "value" : 506
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 106
+                     },
+                     "end_location" : {
+                        "lat" : 40.70741719999999,
+                        "lng" : -74.0040953
+                     },
+                     "html_instructions" : "Continue onto \u003cb\u003ePearl St\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "yjnwF|etbMj@h@PJ^TbAr@VPLHHD?@@?@@HDFDJH@?@@@@BBB@?@B@@@@?@@DB?@B@JFLPDFb@j@vAlBxCxDPRnBtB"
+                     },
+                     "start_location" : {
+                        "lat" : 40.7110078,
+                        "lng" : -74.0004677
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.3 mi",
+                        "value" : 540
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 135
+                     },
+                     "end_location" : {
+                        "lat" : 40.704168,
+                        "lng" : -74.00884959999999
+                     },
+                     "html_instructions" : "Continue onto \u003cb\u003eWater St\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "ktmwFr|tbMnBrDbBjCl@~@bBrCPXhAdBj@|@HLV`@\\h@zAhC"
+                     },
+                     "start_location" : {
+                        "lat" : 40.70741719999999,
+                        "lng" : -74.0040953
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "367 ft",
+                        "value" : 112
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 40
+                     },
+                     "end_location" : {
+                        "lat" : 40.7047649,
+                        "lng" : -74.00972279999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eHanover Square\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "a`mwFhzubMNXWX_AdAm@r@"
+                     },
+                     "start_location" : {
+                        "lat" : 40.704168,
+                        "lng" : -74.00884959999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 mi",
+                        "value" : 205
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 84
+                     },
+                     "end_location" : {
+                        "lat" : 40.7064265,
+                        "lng" : -74.00944149999999
+                     },
+                     "html_instructions" : "Continue onto \u003cb\u003eWilliam St\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the right\u003c/div\u003e",
+                     "polyline" : {
+                        "points" : "wcmwFv_vbMKJWRi@\\M@[E_@GSCg@KqBgAAEACACAC"
+                     },
+                     "start_location" : {
+                        "lat" : 40.7047649,
+                        "lng" : -74.00972279999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "via_waypoint" : []
+            },
+            {
+               "distance" : {
+                  "text" : "1 ft",
+                  "value" : 0
+               },
+               "duration" : {
+                  "text" : "1 min",
+                  "value" : 0
+               },
+               "end_address" : "45 William Street, New York, NY 10005, USA",
+               "end_location" : {
+                  "lat" : 40.7064265,
+                  "lng" : -74.00944149999999
+               },
+               "start_address" : "45 William Street, New York, NY 10005, USA",
+               "start_location" : {
+                  "lat" : 40.7064265,
+                  "lng" : -74.00944149999999
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "1 ft",
+                        "value" : 0
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 0
+                     },
+                     "end_location" : {
+                        "lat" : 40.7064265,
+                        "lng" : -74.00944149999999
+                     },
+                     "html_instructions" : "Head on \u003cb\u003eWilliam St\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "enmwF~}ubM"
+                     },
+                     "start_location" : {
+                        "lat" : 40.7064265,
+                        "lng" : -74.00944149999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "yqpwF|wsbM{@s@dA_DbDlC`HpFpGvFxJrI|D`Dp@b@f@mAj@eB|@eCpA}CfByElA{Dr@gABCJ@dBdBnIrI|@t@bBhAn@b@TL\\VJFBBXXzGzI`ChCnBrDbBjCpCrEzA~BjBvCjBbDwA~Ay@~@aAp@i@Cs@Kg@KqBgACICG"
+         },
+         "summary" : "Crosby St",
+         "warnings" : [],
+         "waypoint_order" : [ 0, 1 ]
+      }
+   ],
+   "status" : "OK"
+}
